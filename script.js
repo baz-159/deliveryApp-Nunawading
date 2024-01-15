@@ -1,3 +1,11 @@
+let deliveryDaysData = {};
+
+fetch('Delivery.json')
+    .then(response => response.json())
+    .then(data => deliveryDaysData = data)
+    .catch(error => console.error('Error loading delivery days data:', error));
+
+
 // Fixed Price Suburbs List
 const fixedPriceSuburbs = {
     'Craigieburn': 90,
@@ -127,11 +135,47 @@ function calculateAndDisplayRoute(origin, destination) {
 
             // Use the distance of the shortest route for calculating the delivery price
             calculateDeliveryPrice(shortestDistance);
+
+            // New code to extract and display suburb name
+            extractAndDisplaySuburb(destination);
+
         } else {
             console.error('Directions request failed due to ' + status);
         }
     });
 }
+
+// New function to extract and display the suburb name
+function extractAndDisplaySuburb(destinationAddress) {
+    let geocoder = new google.maps.Geocoder();
+    geocoder.geocode({ 'address': destinationAddress }, function(results, status) {
+        if (status === 'OK') {
+            let suburb = '';
+            for (let component of results[0].address_components) {
+                if (component.types.includes('locality')) {
+                    suburb = component.long_name.toUpperCase();
+                    break;
+                }
+            }
+            if (suburb && deliveryDaysData[suburb]) {
+                let availableDays = Object.entries(deliveryDaysData[suburb])
+                    .filter(([day, available]) => available)
+                    .map(([day, _]) => day)
+                    .join(", ");
+
+                let resultTextElement = document.getElementById('result');
+                resultTextElement.innerHTML += `<br><br> ${suburb}<br> Delivery Days: ${availableDays}`;
+            } else {
+                let resultTextElement = document.getElementById('result');
+                resultTextElement.innerHTML += `<br><br> ${suburb}<br> Delivery information not available`;
+            }
+        } else {
+            console.error('Geocode was not successful for the following reason: ' + status);
+        }
+    });
+}
+
+
 
 
 // Function to calculate and display the delivery price
