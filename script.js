@@ -1,6 +1,6 @@
 let deliveryDaysData = {};
 
-fetch('Delivery.json')
+fetch('Suburb.json')
     .then(response => response.json())
     .then(data => deliveryDaysData = data)
     .catch(error => console.error('Error loading delivery days data:', error));
