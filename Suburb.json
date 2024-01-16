@@ -1,4 +1,12 @@
 {
+    "ABBOTSFORD": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "ABERFELDIE": {
         "Monday": false,
         "Tuesday": true,
