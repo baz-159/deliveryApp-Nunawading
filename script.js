@@ -133,8 +133,16 @@ function calculateAndDisplayRoute(origin, destination) {
             directionsRenderer.setDirections(response);
             directionsRenderer.setRouteIndex(shortestRouteIndex);
 
-            // Use the distance of the shortest route for calculating the delivery price
-            calculateDeliveryPrice(shortestDistance);
+            // Check if destination is a fixed price suburb
+            let destinationSuburb = Object.keys(fixedPriceSuburbs).find(suburb => destination.includes(suburb));
+            
+            if (destinationSuburb) {
+                // Set the fixed price for the suburb
+                document.getElementById('result').innerText = 'Calculated Delivery Price: $' + fixedPriceSuburbs[destinationSuburb] + ' plus GST';
+            } else {
+                // Use the distance of the shortest route for calculating the delivery price for non-fixed price suburbs
+                calculateDeliveryPrice(shortestDistance);
+            }
 
             // New code to extract and display suburb name
             extractAndDisplaySuburb(destination);
@@ -182,15 +190,13 @@ function extractAndDisplaySuburb(destinationAddress) {
 function calculateDeliveryPrice(distanceInMeters) {
     var distanceInKm = distanceInMeters / 1000;
     var calculatedPrice;
-    var extraMessage = ""; // Message for distances over 105 km
+    var extraMessage = "";
 
-    var roundedDistance = Math.ceil(distanceInKm);
-
-    if (roundedDistance > 105 && roundedDistance <= 300) {
-        calculatedPrice = roundedDistance * 2.50;
-        extraMessage = "<br><br>Please give us a call to book a specific day for delivery.";
-    } else if (roundedDistance > 300) {
-        calculatedPrice = roundedDistance * 2.20;
+    if (distanceInKm > 105) {
+        var additionalDistance = distanceInKm - 105;
+        var additionalCharge = additionalDistance * 2.50;
+        calculatedPrice = 310 + additionalCharge;
+        calculatedPrice = Math.ceil(calculatedPrice / 10) * 10; // Round up to nearest $10
         extraMessage = "<br><br>Please give us a call to book a specific day for delivery.";
     } else {
         // Existing pricing logic for distances up to 105 km
@@ -220,20 +226,9 @@ function calculateDeliveryPrice(distanceInMeters) {
         calculatedPrice = 270;
     } else if (distanceInKm <= 105) {
         calculatedPrice = 310;
-    } else {
-        calculatedPrice = "Contact us for a custom quote!";
-    }
-    // Add the extra message for distances more than 105 km
-    if (roundedDistance > 105) {
-        extraMessage = " Please give us a call to book a specific day for delivery.";
-    }
+    } 
 }
     // Display the result on the page
-    var resultText = 'Calculated Delivery Price: ';
-    if (typeof calculatedPrice === 'number') {
-        resultText += '$' + calculatedPrice.toFixed(2) + ' plus GST.' + extraMessage;
-    } else {
-        resultText += calculatedPrice + extraMessage;
-    }
-    document.getElementById('result').innerHTML = resultText; // Use innerHTML instead of innerText
+    var resultText = 'Calculated Delivery Price: $' + calculatedPrice + ' plus GST' + extraMessage;
+    document.getElementById('result').innerHTML = resultText;
 }
