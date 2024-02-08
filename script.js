@@ -79,7 +79,7 @@ function calculateDistance(customerLocation) {
     var service = new google.maps.DistanceMatrixService();
     service.getDistanceMatrix(
         {
-            origins: ['308-320 Settlement Rd, Thomastown VIC 3074'],
+            origins: ['121 Bell St, Preston VIC 3072'],
             destinations: [customerLocation],
             travelMode: 'DRIVING',
             unitSystem: google.maps.UnitSystem.METRIC,
