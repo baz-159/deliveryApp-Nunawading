@@ -15,13 +15,29 @@
         "Friday": false,
         "Saturday": false
     },
-    "AIRPORT WEST": {
+    "ACHERON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "AINTREE": {
         "Monday": false,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
         "Saturday": false
+    },
+    "AIRPORT WEST": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
     },
     "ALBANVALE": {
         "Monday": false,
@@ -40,6 +56,30 @@
         "Saturday": false
     },
     "ALBION": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ALEXANDRA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "ALLENDALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ALMA": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -71,6 +111,30 @@
         "Friday": false,
         "Saturday": false
     },
+    "ALTONA NORTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ANAKIE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ANCONA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "ARDEER": {
         "Monday": false,
         "Tuesday": false,
@@ -79,11 +143,27 @@
         "Friday": false,
         "Saturday": false
     },
+    "ARGYLE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "ARMADALE": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ARMSTRONG CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -95,9 +175,25 @@
         "Friday": true,
         "Saturday": true
     },
+    "ARTHURS SEAT": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "ASCOT VALE": {
         "Monday": false,
         "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ASHBOURNE": {
+        "Monday": false,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
@@ -127,6 +223,22 @@
         "Friday": false,
         "Saturday": false
     },
+    "ASPENDALE GARDENS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ATHLONE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "ATTWOOD": {
         "Monday": true,
         "Tuesday": true,
@@ -134,6 +246,30 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "AUBURN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "AVALON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "AVENEL": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
     },
     "AVONDALE HEIGHTS": {
         "Monday": false,
@@ -149,6 +285,14 @@
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "AXEDALE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "BACCHUS MARSH": {
@@ -167,7 +311,55 @@
         "Friday": false,
         "Saturday": false
     },
-    "BULLEEN": {
+    "BALD HILLS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BALLAN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BALLARAT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BALLIANG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BALLIANG EAST": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BALNARRING": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BALNARRING BEACH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -179,7 +371,15 @@
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
-        "Thursday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BALWYN NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -191,6 +391,102 @@
         "Friday": false,
         "Saturday": false
     },
+    "BANNOCKBURN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BARFOLD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BARINGHUP": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BARINGHUP EAST": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BARINGHUP WEST": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BARJARG": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "BARKERS CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BARRYS REEF": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BARWITE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "BARWON HEADS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BASS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BATESFORD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "BAXTER": {
         "Monday": false,
         "Tuesday": true,
@@ -199,7 +495,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "BAYLES": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BAYNTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "BAYSWATER": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BAYSWATER NORTH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -239,6 +559,30 @@
         "Friday": false,
         "Saturday": false
     },
+    "BELGRAVE SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BELL PARK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BELLARINE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "BELLFIELD": {
         "Monday": true,
         "Tuesday": true,
@@ -247,7 +591,63 @@
         "Friday": true,
         "Saturday": true
     },
-    "BELL PARK": {
+    "BELMONT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BENA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BENDIGO": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BENTLEIGH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BENTLEIGH EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BEREMBOKE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BERWICK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BET BET": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -263,7 +663,7 @@
         "Friday": true,
         "Saturday": true
     },
-    "BENTLEIGH": {
+    "BIG PATS CREEK": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -271,7 +671,7 @@
         "Friday": false,
         "Saturday": false
     },
-    "BERWICK": {
+    "BITTERN": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -295,12 +695,108 @@
         "Friday": false,
         "Saturday": false
     },
+    "BLACKBURN NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BLACKBURN SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BLACKWOOD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BLAIRGOWRIE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BLAKEVILLE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BLAMPIED": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BLIND BIGHT": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BOLINDA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "BONBEACH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "BONEO": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BONNIE BROOK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BONNIE DOON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "BOOROLITE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "BORONIA": {
@@ -311,7 +807,55 @@
         "Friday": false,
         "Saturday": false
     },
+    "BOTANIC RIDGE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BOWENVALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "BOX HILL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BOX HILL NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BOX HILL SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BRADFORD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BRAESIDE": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -320,6 +864,14 @@
         "Saturday": false
     },
     "BRAYBROOK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BREAKWATER": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -335,7 +887,23 @@
         "Friday": true,
         "Saturday": true
     },
+    "BRIDGE CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "BRIGHTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BRIGHTON EAST": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -375,7 +943,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "BROWN HILL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "BRUNSWICK": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "BRUNSWICK EAST": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "BRUNSWICK WEST": {
         "Monday": true,
         "Tuesday": true,
         "Wednesday": true,
@@ -391,7 +983,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "BULLARTO": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BULLEEN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "BULLENGAROOK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BUNDING": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -406,6 +1022,30 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "BUNGAL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BUNINYONG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BUNYIP": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
     },
     "BURNLEY": {
         "Monday": false,
@@ -423,11 +1063,59 @@
         "Friday": false,
         "Saturday": false
     },
+    "BURNSIDE HEIGHTS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "BURWOOD": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BURWOOD EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BUXTON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "BYLANDS": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "CADELLO": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAIRNLEA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -439,11 +1127,19 @@
         "Friday": false,
         "Saturday": false
     },
-    "CAMBERWELL": {
+    "CALDERMEADE": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAMBERWELL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -455,7 +1151,31 @@
         "Friday": true,
         "Saturday": true
     },
-    "CANTERBURY": {
+    "CAMPBELLS CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAMPBELLTOWN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CANADIAN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CANNONS CREEK": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -463,7 +1183,63 @@
         "Friday": false,
         "Saturday": false
     },
+    "CANTERBURY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAPE PATERSON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAPE SCHANCK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAPEL SOUND": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CARDINIA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CARLSRUHE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "CARLTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CARLTON NORTH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -479,7 +1255,7 @@
         "Friday": false,
         "Saturday": false
     },
-    "CAIRNLEA": {
+    "CAROLINE SPRINGS": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -487,11 +1263,11 @@
         "Friday": false,
         "Saturday": false
     },
-    "CAROLINE SPRINGS": {
+    "CARRUM": {
         "Monday": false,
-        "Tuesday": false,
+        "Tuesday": true,
         "Wednesday": false,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -503,11 +1279,59 @@
         "Friday": false,
         "Saturday": false
     },
+    "CASTELLA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "CASTLEMAINE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CATANI": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "CAULFIELD": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAULFIELD NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAULFIELD SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CERES": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -519,7 +1343,23 @@
         "Friday": false,
         "Saturday": false
     },
+    "CHARLEMONT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "CHELSEA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CHELSEA HEIGHTS": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -535,12 +1375,52 @@
         "Friday": false,
         "Saturday": false
     },
+    "CHEROKEE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CHESHUNT": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "CHEWTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CHINTIN": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "CHIRNSIDE PARK": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "CHUM CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "CITY": {
@@ -551,7 +1431,39 @@
         "Friday": false,
         "Saturday": false
     },
+    "CLARINDA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CLARKEFIELD": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "CLAYTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CLAYTON SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CLEMATIS": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -567,6 +1479,22 @@
         "Friday": false,
         "Saturday": false
     },
+    "CLIFTON SPRINGS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CLUNES": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "CLYDE": {
         "Monday": false,
         "Tuesday": true,
@@ -575,7 +1503,39 @@
         "Friday": false,
         "Saturday": false
     },
+    "CLYDE NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CLYDESDALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "COBBLEBANK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "COBURG": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "COBURG NORTH": {
         "Monday": true,
         "Tuesday": true,
         "Wednesday": true,
@@ -588,6 +1548,30 @@
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "COCOROC": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "COIMADAI": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "COLBROOK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -607,6 +1591,14 @@
         "Friday": false,
         "Saturday": false
     },
+    "COODE ISLAND": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "COOLAROO": {
         "Monday": true,
         "Tuesday": true,
@@ -614,6 +1606,30 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "COOMOORA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CORA LYNN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CORINELLA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
     },
     "CORIO": {
         "Monday": false,
@@ -623,6 +1639,14 @@
         "Friday": false,
         "Saturday": false
     },
+    "COSTERFIELD": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "COTTLES BRIDGE": {
         "Monday": true,
         "Tuesday": true,
@@ -630,6 +1654,14 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "COWES": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
     },
     "CRAIGIEBURN": {
         "Monday": true,
@@ -647,11 +1679,123 @@
         "Friday": false,
         "Saturday": false
     },
+    "CRANBOURNE EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CRANBOURNE NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CRANBOURNE SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CRANBOURNE WEST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CREIGHTONS CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "CREMORNE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CRESWICK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CRIB POINT": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "CROYDON": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CROYDON HILLS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CROYDON NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CROYDON SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CURLEWIS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DAISY HILL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DALES CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -663,7 +1807,47 @@
         "Friday": true,
         "Saturday": true
     },
+    "DALMORE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DALYSTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "DANDENONG": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DANDENONG NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DANDENONG SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DANDENONG WEST": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -679,7 +1863,39 @@
         "Friday": false,
         "Saturday": false
     },
+    "DARRAWEIT GUIM": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "DAYLESFORD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DEEPDENE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "DEER PARK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DELACOMBE": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -695,6 +1911,14 @@
         "Friday": false,
         "Saturday": false
     },
+    "DENVER": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "DERRIMUT": {
         "Monday": false,
         "Tuesday": false,
@@ -703,7 +1927,23 @@
         "Friday": false,
         "Saturday": false
     },
+    "DERRINAL": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "DEVON MEADOWS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DEWHURST": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -724,6 +1964,14 @@
         "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DINGLEY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -751,7 +1999,23 @@
         "Friday": false,
         "Saturday": false
     },
+    "DON VALLEY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "DONCASTER": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DONCASTER EAST": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -791,6 +2055,110 @@
         "Friday": false,
         "Saturday": false
     },
+    "DROMANA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DROUIN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DROUIN EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DROUIN SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DROUIN WEST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DRUMMOND": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DRUMMOND NORTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DRY DIGGINGS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DRYSDALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DUNACH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DUNNSTOWN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DUNOLLY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "DURDIDWARRAH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "EAGLEMONT": {
         "Monday": true,
         "Tuesday": true,
@@ -799,9 +2167,65 @@
         "Friday": true,
         "Saturday": true
     },
+    "EAST END": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "EAST GEELONG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "EAST MELBOURNE": {
         "Monday": false,
         "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "EAST WARBURTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "EASTVILLE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "EDDINGTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "EDEN PARK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "EDGECOMBE": {
+        "Monday": false,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
@@ -815,6 +2239,38 @@
         "Friday": false,
         "Saturday": false
     },
+    "EGANSTOWN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "EILDON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "ELLINBANK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ELPHINSTONE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "ELSTERNWICK": {
         "Monday": false,
         "Tuesday": true,
@@ -824,6 +2280,14 @@
         "Saturday": false
     },
     "ELTHAM": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "ELTHAM NORTH": {
         "Monday": true,
         "Tuesday": true,
         "Wednesday": true,
@@ -847,12 +2311,28 @@
         "Friday": false,
         "Saturday": false
     },
+    "EMU CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "ENDEAVOUR HILLS": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "EPPALOCK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "EPPING": {
@@ -864,12 +2344,52 @@
         "Saturday": true
     },
     "ESSENDON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ESSENDON FIELDS": {
         "Monday": true,
         "Tuesday": true,
         "Wednesday": true,
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "ESSENDON NORTH": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "ESSENDON WEST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "EUMEMMERRING": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "EUROA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
     },
     "EXFORD": {
         "Monday": false,
@@ -879,13 +2399,21 @@
         "Friday": false,
         "Saturday": false
     },
-    "FAIRFIELD": {
-        "Monday": true,
-        "Tuesday": true,
-        "Wednesday": true,
+    "EYNESBURY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
         "Thursday": true,
-        "Friday": true,
-        "Saturday": true
+        "Friday": false,
+        "Saturday": false
+    },
+    "FAIRFIELD": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "FAWKNER": {
         "Monday": true,
@@ -894,6 +2422,14 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "FERN HILL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "FERNTREE GULLY": {
         "Monday": false,
@@ -911,17 +2447,65 @@
         "Friday": false,
         "Saturday": false
     },
-    "FITZROY": {
-        "Monday": true,
-        "Tuesday": true,
-        "Wednesday": true,
+    "FIELDSTONE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
         "Thursday": true,
-        "Friday": true,
-        "Saturday": true
+        "Friday": false,
+        "Saturday": false
+    },
+    "FINGAL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FISKVILLE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FITZROY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FITZROY NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "FLEMINGTON": {
         "Monday": false,
         "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FLINDERS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FLORA HILL": {
+        "Monday": false,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
@@ -943,11 +2527,27 @@
         "Friday": false,
         "Saturday": false
     },
+    "FORBES": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "FOREST HILL": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FRANKLINFORD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -959,6 +2559,38 @@
         "Friday": false,
         "Saturday": false
     },
+    "FRANKSTON NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FRANKSTON SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FRASER RISE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "FRESHWATER CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "GARDENVALE": {
         "Monday": false,
         "Tuesday": true,
@@ -967,7 +2599,39 @@
         "Friday": false,
         "Saturday": false
     },
+    "GARFIELD": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GEELONG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "GEMBROOK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GHERINGHAP": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GILDEROY": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -983,6 +2647,14 @@
         "Friday": false,
         "Saturday": false
     },
+    "GISBORNE SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "GLADSTONE PARK": {
         "Monday": true,
         "Tuesday": true,
@@ -990,6 +2662,30 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "GLADYSDALE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GLEN FORBES": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GLEN HUNTLY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
     },
     "GLEN IRIS": {
         "Monday": false,
@@ -1007,11 +2703,27 @@
         "Friday": false,
         "Saturday": false
     },
-    "GLEN HUNTLY": {
-        "Monday": false,
-        "Tuesday": true,
-        "Wednesday": false,
+    "GLENBURN": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
         "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "GLENLYON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GLENMORE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -1023,6 +2735,62 @@
         "Friday": true,
         "Saturday": true
     },
+    "GLENVALE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "GNARWARRE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GOLDEN GULLY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GOLDEN SQUARE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GOORAM": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "GORDON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GOUGHS BAY": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "GOWANBRAE": {
         "Monday": true,
         "Tuesday": true,
@@ -1030,6 +2798,62 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "GOWER": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GRANGEFIELDS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GRANTVILLE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GRAYTOWN": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "GREEN GULLY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GREENDALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GREENHILL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "GREENSBOROUGH": {
         "Monday": true,
@@ -1047,6 +2871,30 @@
         "Friday": true,
         "Saturday": true
     },
+    "GROVEDALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GUILDFORD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "GUYS HILL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "HADFIELD": {
         "Monday": true,
         "Tuesday": true,
@@ -1063,7 +2911,23 @@
         "Friday": false,
         "Saturday": false
     },
+    "HAMLYN HEIGHTS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "HAMPTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HAMPTON EAST": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -1079,7 +2943,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "HARCOURT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "HARKAWAY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HARKNESS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HASTINGS": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -1095,7 +2983,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "HAWTHORN EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "HEALESVILLE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "HEATH HILL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HEATHCOTE": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": true,
@@ -1109,6 +3021,22 @@
         "Wednesday": true,
         "Thursday": false,
         "Friday": true,
+        "Saturday": false
+    },
+    "HEATHCOTE SOUTH": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "HEATHERDALE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
         "Saturday": false
     },
     "HEATHERTON": {
@@ -1135,6 +3063,38 @@
         "Friday": true,
         "Saturday": true
     },
+    "HEIDELBERG WEST": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "HEPBURN SPRINGS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HESKET": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HIGH CAMP": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "HIGHETT": {
         "Monday": false,
         "Tuesday": true,
@@ -1143,7 +3103,55 @@
         "Friday": false,
         "Saturday": false
     },
+    "HIGHTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HILLDENE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "HILLSIDE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HMAS CERBERUS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HODDLES CREEK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "HOMEWOOD": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "HOPETOUN PARK": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -1159,12 +3167,44 @@
         "Friday": false,
         "Saturday": false
     },
+    "HOWQUA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "HOWQUA HILLS": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "HOWQUA INLET": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "HUGHESDALE": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "HUMEVALE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "HUNTINGDALE": {
@@ -1183,6 +3223,46 @@
         "Friday": true,
         "Saturday": true
     },
+    "INDENTED HEAD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "INGLISTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "INVERLOCH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "IONA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "IRISHTOWN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "IVANHOE": {
         "Monday": true,
         "Tuesday": true,
@@ -1191,6 +3271,14 @@
         "Friday": true,
         "Saturday": true
     },
+    "IVANHOE EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "JACANA": {
         "Monday": true,
         "Tuesday": true,
@@ -1198,6 +3286,54 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "JAM JERRUP": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "JAMIESON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "JOLIMONT": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "JOYCES CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "JUNCTION VILLAGE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "JUNORTOUN": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
     },
     "KALKALLO": {
         "Monday": true,
@@ -1223,6 +3359,14 @@
         "Friday": false,
         "Saturday": false
     },
+    "KANGAROO FLAT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "KANGAROO GROUND": {
         "Monday": true,
         "Tuesday": true,
@@ -1231,11 +3375,27 @@
         "Friday": true,
         "Saturday": true
     },
+    "KANUMBRA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "KARINGAL": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KEALBA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -1257,6 +3417,22 @@
     },
     "KEILOR EAST": {
         "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KEILOR LODGE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KEILOR NORTH": {
+        "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
@@ -1264,6 +3440,14 @@
         "Saturday": false
     },
     "KEILOR PARK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KENNINGTON": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -1287,13 +3471,45 @@
         "Friday": true,
         "Saturday": true
     },
-    "KEW": {
-        "Monday": true,
-        "Tuesday": true,
-        "Wednesday": true,
+    "KERRIE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KERRISDALE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
+    },
+    "KEVINGTON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "KEW": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KEW EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "KEYSBOROUGH": {
         "Monday": false,
@@ -1301,6 +3517,22 @@
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "KILCUNDA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KILLINGWORTH": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "KILMORE": {
@@ -1319,7 +3551,39 @@
         "Friday": false,
         "Saturday": false
     },
+    "KILSYTH SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KIMBOLTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "KINGLAKE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "KINGLAKE CENTRAL": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "KINGLAKE WEST": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": true,
@@ -1351,11 +3615,51 @@
         "Friday": false,
         "Saturday": false
     },
+    "KNOWSLEY": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "KNOXFIELD": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KONGWAK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KOO WEE RUP": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KOO WEE RUP NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KOOROOCHEANG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -1367,7 +3671,71 @@
         "Friday": false,
         "Saturday": false
     },
+    "KORIELLA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "KORUMBURRA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KORWEINGUBOORA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "KURUNJANG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KYNETON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "KYNETON SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LAANECOORIE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LAKE EPPALOCK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "LAL LAL": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -1391,7 +3759,39 @@
         "Friday": true,
         "Saturday": false
     },
+    "LANG LANG": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LANG LANG EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LANGLEY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "LANGWARRIN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LANGWARRIN SOUTH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -1407,7 +3807,55 @@
         "Friday": false,
         "Saturday": false
     },
+    "LAURISTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "LAVERTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LAVERTON NORTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LEIGH CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LEONARDS HILL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LEOPOLD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LETHBRIDGE": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -1423,7 +3871,95 @@
         "Friday": false,
         "Saturday": false
     },
+    "LIMA SOUTH": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "LITTLE HAMPTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "LITTLE RIVER": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LOCH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LOCKSLEY": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "LOCKWOOD SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LONGLEA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "LONGWARRY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LONGWARRY NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LONGWOOD": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "LONGWOOD EAST": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "LOVELY BANKS": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -1439,6 +3975,30 @@
         "Friday": true,
         "Saturday": true
     },
+    "LOWER TEMPLESTOWE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LYAL": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "LYNBROOK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "LYNDHURST": {
         "Monday": false,
         "Tuesday": true,
@@ -1447,7 +4007,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "LYONVILLE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "LYSTERFIELD": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "LYSTERFIELD SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MACCLESFIELD": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -1479,9 +4063,49 @@
         "Friday": false,
         "Saturday": false
     },
+    "MAIDEN GULLY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "MAIDSTONE": {
         "Monday": false,
         "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MAIN RIDGE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MAJORCA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MALDON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MALMSBURY": {
+        "Monday": false,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
@@ -1495,13 +4119,125 @@
         "Friday": false,
         "Saturday": false
     },
-    "MARIBYRNONG": {
-        "Monday": true,
+    "MALVERN EAST": {
+        "Monday": false,
         "Tuesday": true,
-        "Wednesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MANDURANG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MANDURANG SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MANGALORE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
+    },
+    "MANNERIM": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MANOR LAKES": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MANSFIELD": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "MARCUS HILL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MARIBYRNONG": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MARONG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MARYBOROUGH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MARYSVILLE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "MAUDE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MCCRAE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MCKENZIE HILL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "MCKINNON": {
         "Monday": false,
@@ -1535,11 +4271,43 @@
         "Friday": false,
         "Saturday": false
     },
+    "MELTON SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MELTON WEST": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "MENTONE": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MENZIES CREEK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MEREDITH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -1550,6 +4318,70 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "MERRICKS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MERRICKS NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MERRIJIG": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "MERRIMU": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MERTON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "METCALFE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "METCALFE EAST": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MIA MIA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "MICKLEHAM": {
         "Monday": true,
@@ -1563,7 +4395,7 @@
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -1575,6 +4407,38 @@
         "Friday": true,
         "Saturday": true
     },
+    "MILLBROOK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MILLGROVE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MINERS REST": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MIRIMBAH": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "MITCHAM": {
         "Monday": false,
         "Tuesday": true,
@@ -1583,7 +4447,47 @@
         "Friday": false,
         "Saturday": false
     },
+    "MITCHELLSTOWN": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "MODELLA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOLESWORTH": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "MONBULK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MONEGEETTA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "MONOMEITH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -1595,7 +4499,15 @@
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
-        "Thursday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MONT ALBERT NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -1615,6 +4527,22 @@
         "Friday": false,
         "Saturday": false
     },
+    "MOOLAP": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOOLORT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "MOONEE PONDS": {
         "Monday": false,
         "Tuesday": true,
@@ -1631,7 +4559,95 @@
         "Friday": false,
         "Saturday": false
     },
+    "MOORABOOL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOORMBOOL WEST": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "MOOROODUC": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOOROOLBARK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MORANDING": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "MORDIALLOC": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MORIAC": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MORNINGTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MORRISONS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOUNT ATKINSON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOUNT BULLER": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "MOUNT BURNETT": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -1655,6 +4671,30 @@
         "Friday": false,
         "Saturday": false
     },
+    "MOUNT DORAN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOUNT DUNEED": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOUNT EGERTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "MOUNT ELIZA": {
         "Monday": false,
         "Tuesday": true,
@@ -1671,11 +4711,67 @@
         "Friday": false,
         "Saturday": false
     },
+    "MOUNT FRANKLIN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOUNT HELEN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOUNT MACEDON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOUNT MARTHA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MOUNT WALLACE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "MOUNT WAVERLEY": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MUCKLEFORD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MUCKLEFORD SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -1687,6 +4783,22 @@
         "Friday": false,
         "Saturday": false
     },
+    "MURPHYS CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MURRADOC": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "MURRUMBEENA": {
         "Monday": false,
         "Tuesday": true,
@@ -1695,11 +4807,115 @@
         "Friday": false,
         "Saturday": false
     },
+    "MUSK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MUSK VALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MYRNIONG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "MYRTLE CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "NAGAMBIE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "NANGANA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NAPOLEONS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NAR NAR GOON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NAR NAR GOON NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NARBETHONG": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "NARRE WARREN": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NARRE WARREN EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NARRE WARREN SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NEEREMAN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -1711,7 +4927,71 @@
         "Friday": false,
         "Saturday": false
     },
+    "NEWBRIDGE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NEWBURY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NEWHAM": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NEWLYN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NEWLYN NORTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "NEWPORT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NEWQUAY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NEWSTEAD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NEWTOWN": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -1735,7 +5015,55 @@
         "Friday": false,
         "Saturday": false
     },
+    "NOBLE PARK NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NORA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "NORLANE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NORTH BENDIGO": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NORTH BLACKWOOD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NORTH BRIGHTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NORTH GEELONG": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -1760,12 +5088,20 @@
         "Saturday": false
     },
     "NORTHCOTE": {
-        "Monday": true,
+        "Monday": false,
         "Tuesday": true,
-        "Wednesday": true,
+        "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NORTHWOOD": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "NOTTING HILL": {
         "Monday": false,
@@ -1773,6 +5109,22 @@
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "NUGGETTY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "NULLA VALE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "NUNAWADING": {
@@ -1807,7 +5159,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "OAKLEIGH SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "OCEAN GROVE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "OFFICER": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "OFFICER SOUTH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -1831,7 +5207,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "OUTTRIM": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "PAKENHAM": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PAKENHAM SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PAKENHAM UPPER": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -1867,11 +5267,27 @@
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
-        "Thursday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PARWAN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
     "PASCOE VALE": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "PASCOE VALE SOUTH": {
         "Monday": true,
         "Tuesday": true,
         "Wednesday": true,
@@ -1893,6 +5309,54 @@
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "PENTLAND HILLS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PHEASANT CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "PHILLIP ISLAND": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PIONEER BAY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PIPERS CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PIRIES": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "PLENTY": {
@@ -1919,11 +5383,99 @@
         "Friday": false,
         "Saturday": false
     },
+    "POINT LEO": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "POINT LONSDALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "POINT WILSON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "POOTILLA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "POOWONG": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "POOWONG EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "POOWONG NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PORCUPINE RIDGE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "PORT MELBOURNE": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PORTARLINGTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PORTSEA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "POWELLTOWN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -1943,7 +5495,95 @@
         "Friday": true,
         "Saturday": true
     },
+    "PRINCES HILL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "PUCKAPUNYAL": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "PYALONG": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "QUANDONG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "QUEENSCLIFF": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "RANCEBY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "RAVENHALL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "RAVENSWOOD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "RAVENSWOOD SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "RED HILL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "RED HILL SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "REDESDALE": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -1966,6 +5606,14 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "RHYLL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
     },
     "RICHMOND": {
         "Monday": false,
@@ -1991,11 +5639,35 @@
         "Friday": false,
         "Saturday": false
     },
+    "RINGWOOD NORTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "RIPPLEBROOK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "RIPPONLEA": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ROCHFORD": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -2023,6 +5695,22 @@
         "Friday": true,
         "Saturday": true
     },
+    "ROSEBUD": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ROWSLEY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "ROWVILLE": {
         "Monday": false,
         "Tuesday": true,
@@ -2038,6 +5726,78 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "RUBICON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "RUSSELLS BRIDGE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "RYE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "RYTHDALE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SAFETY BEACH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SAILORS FALLS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SAN REMO": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SANDHURST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SANDON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "SANDRINGHAM": {
         "Monday": false,
@@ -2060,6 +5820,14 @@
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SCOTSBURN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -2087,11 +5855,35 @@
         "Friday": false,
         "Saturday": false
     },
+    "SEBASTOPOL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "SEDDON": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SEDGWICK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "SELBY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -2111,7 +5903,87 @@
         "Friday": true,
         "Saturday": false
     },
+    "SHE OAKS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SHELBOURNE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SHEPHERDS FLAT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SHERBROOKE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SHOREHAM": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SIDONIA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SILVAN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "SKYE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SMEATON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SMYTHES CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SOMERS": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -2135,9 +6007,25 @@
         "Friday": false,
         "Saturday": false
     },
-    "SOUTH KINGSVILLE": {
+    "SORRENTO": {
         "Monday": false,
         "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SOUTH GEELONG": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SOUTH KINGSVILLE": {
+        "Monday": false,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
@@ -2159,11 +6047,19 @@
         "Friday": true,
         "Saturday": true
     },
+    "SOUTH WERRIBEE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "SOUTH YARRA": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -2175,15 +6071,79 @@
         "Friday": false,
         "Saturday": false
     },
+    "SPARGO": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SPARGO CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "SPOTSWOOD": {
         "Monday": false,
-        "Tuesday": true,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SPRING GULLY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SPRING HILL": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SPRINGBANK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SPRINGFIELD": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "SPRINGMOUNT": {
+        "Monday": false,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
     "SPRINGVALE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SPRINGVALE SOUTH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -2207,6 +6167,14 @@
         "Friday": true,
         "Saturday": false
     },
+    "ST ANDREWS BEACH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "ST HELENA": {
         "Monday": true,
         "Tuesday": true,
@@ -2218,6 +6186,78 @@
     "ST KILDA": {
         "Monday": false,
         "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ST KILDA EAST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ST KILDA WEST": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "ST LEONARDS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "STAUGHTON VALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "STEELS CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "STEIGLITZ": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "STRANGWAYS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "STRATH CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "STRATHFIELDSAYE": {
+        "Monday": false,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
@@ -2231,6 +6271,46 @@
         "Friday": true,
         "Saturday": true
     },
+    "STRATHMORE HEIGHTS": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "STRATHTULLOH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "STRZELECKI": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SUGARLOAF CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "SUMMERLANDS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "SUNBURY": {
         "Monday": false,
         "Tuesday": false,
@@ -2239,7 +6319,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "SUNDAY CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "SUNSHINE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SUNSHINE NORTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SUNSHINE WEST": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
@@ -2251,7 +6355,31 @@
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SUTHERLANDS CREEK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "SUTTON GRANGE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
         "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "SWAN BAY": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -2268,6 +6396,62 @@
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TABILK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "TAGGERTY": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "TALBOT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TALLAROOK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "TALLY HO": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TARADALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TARILTA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -2304,14 +6488,38 @@
         "Saturday": false
     },
     "TEMPLESTOWE": {
-        "Monday": true,
+        "Monday": false,
         "Tuesday": true,
-        "Wednesday": true,
+        "Wednesday": false,
         "Thursday": true,
-        "Friday": true,
-        "Saturday": true
+        "Friday": false,
+        "Saturday": false
+    },
+    "TEMPLESTOWE LOWER": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TETOORA ROAD": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
     },
     "THE BASIN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "THE GURDIES": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -2343,12 +6551,60 @@
         "Friday": true,
         "Saturday": true
     },
+    "THORNHILL PARK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "THORNTON": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "THREE BRIDGES": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TOLMIE": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "TOOBORAC": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "TOOLANGI": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": true,
         "Thursday": false,
         "Friday": true,
+        "Saturday": false
+    },
+    "TOOLERN VALE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
         "Saturday": false
     },
     "TOORADIN": {
@@ -2363,31 +6619,63 @@
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
-        "Thursday": true,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TOOTGAROOK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
     "TOTTENHAM": {
         "Monday": false,
-        "Tuesday": false,
+        "Tuesday": true,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
     "TRAVANCORE": {
-        "Monday": true,
+        "Monday": false,
         "Tuesday": true,
-        "Wednesday": true,
+        "Wednesday": false,
         "Thursday": true,
-        "Friday": true,
-        "Saturday": true
+        "Friday": false,
+        "Saturday": false
+    },
+    "TRENTHAM": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TRENTHAM EAST": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
     },
     "TRUGANINA": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TUERONG": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -2399,7 +6687,39 @@
         "Friday": true,
         "Saturday": true
     },
+    "TYAAK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "TYABB": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TYLDEN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TYLDEN SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "TYNONG NORTH": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -2415,7 +6735,31 @@
         "Friday": true,
         "Saturday": true
     },
+    "UPPER FERNTREE GULLY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "UPPER PLENTY": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "UPWEY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "VENTNOR": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -2431,12 +6775,76 @@
         "Friday": false,
         "Saturday": false
     },
+    "VERMONT SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "VERVALE": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "VIEWBANK": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "WALLACE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "WALLAN": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": true,
         "Thursday": false,
         "Friday": true,
+        "Saturday": false
+    },
+    "WALLAN EAST": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "WALLINGTON": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WALMER": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WANDANA HEIGHTS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
         "Saturday": false
     },
     "WANDIN": {
@@ -2447,7 +6855,7 @@
         "Friday": false,
         "Saturday": false
     },
-    "WANTIRNA": {
+    "WANDIN EAST": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -2463,12 +6871,68 @@
         "Friday": true,
         "Saturday": false
     },
+    "WANTIRNA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WANTIRNA SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WARBURTON": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WARNEET": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WARRAGUL": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WARRAGUL SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "WARRANDYTE": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": true,
         "Thursday": false,
         "Friday": true,
+        "Saturday": false
+    },
+    "WARRANDYTE SOUTH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
         "Saturday": false
     },
     "WARRANWOOD": {
@@ -2479,7 +6943,31 @@
         "Friday": true,
         "Saturday": false
     },
+    "WARRENHEIP": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WATERWAYS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "WATSONIA": {
+        "Monday": true,
+        "Tuesday": true,
+        "Wednesday": true,
+        "Thursday": true,
+        "Friday": true,
+        "Saturday": true
+    },
+    "WATSONIA NORTH": {
         "Monday": true,
         "Tuesday": true,
         "Wednesday": true,
@@ -2495,9 +6983,73 @@
         "Friday": true,
         "Saturday": true
     },
+    "WAURN PONDS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WEIR VIEWS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WELSHMANS REEF": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WENDOUREE": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WERONA": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "WERRIBEE": {
         "Monday": false,
         "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WERRIBEE SOUTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WEST FOOTSCRAY": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WEST MELBOURNE": {
+        "Monday": false,
+        "Tuesday": true,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
@@ -2511,9 +7063,9 @@
         "Friday": true,
         "Saturday": true
     },
-    "WEST MELBOURNE": {
+    "WHEATSHEAF": {
         "Monday": false,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
@@ -2527,7 +7079,31 @@
         "Friday": false,
         "Saturday": false
     },
+    "WHITEHEADS CREEK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "WHITFIELD": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "WHITTLESEA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "WILDWOOD": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": true,
@@ -2551,11 +7127,19 @@
         "Friday": false,
         "Saturday": false
     },
+    "WILLIAMSTOWN NORTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "WINDSOR": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -2575,11 +7159,35 @@
         "Friday": true,
         "Saturday": false
     },
+    "WONTHAGGI": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "WOODEND": {
         "Monday": false,
         "Tuesday": false,
         "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WOODEND NORTH": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WOODLEIGH": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },
@@ -2590,6 +7198,22 @@
         "Thursday": true,
         "Friday": true,
         "Saturday": true
+    },
+    "WOODSTOCK WEST": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "WOORI YALLOCK": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
     },
     "WYNDHAM VALE": {
         "Monday": false,
@@ -2615,12 +7239,60 @@
         "Friday": true,
         "Saturday": true
     },
+    "YANDOIT": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "YANDOIT HILLS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "YANNATHAN": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "YAPEEN": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "YARCK": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "YARRA GLEN": {
         "Monday": true,
         "Tuesday": false,
         "Wednesday": true,
         "Thursday": false,
         "Friday": true,
+        "Saturday": false
+    },
+    "YARRA JUNCTION": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
         "Saturday": false
     },
     "YARRAMBAT": {
@@ -2636,6 +7308,22 @@
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
+    "YEA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
+    "YELLINGBO": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
         "Friday": false,
         "Saturday": false
     },

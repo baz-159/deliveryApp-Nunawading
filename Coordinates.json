@@ -1,0 +1,1326 @@
+{
+    "ABBOTSFORD": {
+        "Lat": -37.80549,
+        "Long": 144.99674
+    },
+    "ABERFELDIE": {
+        "Lat": -37.75695,
+        "Long": 144.89851
+    },
+    "AIRPORT WEST": {
+        "Lat": -37.7163,
+        "Long": 144.88513
+    },
+    "ALBANVALE": {
+        "Lat": -37.74385,
+        "Long": 144.77034
+    },
+    "ALBERT PARK": {
+        "Lat": -37.84068,
+        "Long": 144.95552
+    },
+    "ALBION": {
+        "Lat": -37.77837,
+        "Long": 144.82006
+    },
+    "ALPHINGTON": {
+        "Lat": -37.78199,
+        "Long": 145.02506
+    },
+    "ALTONA": {
+        "Lat": -37.86938,
+        "Long": 144.83031
+    },
+    "ALTONA MEADOWS": {
+        "Lat": -37.87753,
+        "Long": 144.78315
+    },
+    "ARDEER": {
+        "Lat": -37.78022,
+        "Long": 144.8022
+    },
+    "ARMADALE": {
+        "Lat": -37.85545,
+        "Long": 145.02061
+    },
+    "ARTHURS CREEK": {
+        "Lat": -37.58359,
+        "Long": 145.20696
+    },
+    "ASCOT VALE": {
+        "Lat": -37.7739,
+        "Long": 144.9158
+    },
+    "ASHBURTON": {
+        "Lat": -37.86311,
+        "Long": 145.07701
+    },
+    "ASHWOOD": {
+        "Lat": -37.87052,
+        "Long": 145.1086
+    },
+    "ASPENDALE": {
+        "Lat": -38.01447,
+        "Long": 145.09317
+    },
+    "ATTWOOD": {
+        "Lat": -37.67142,
+        "Long": 144.89173
+    },
+    "AVONDALE HEIGHTS": {
+        "Lat": -37.76356,
+        "Long": 144.86255
+    },
+    "AVONSLEIGH": {
+        "Lat": -37.91697,
+        "Long": 145.47394
+    },
+    "BACCHUS MARSH": {
+        "Lat": -37.67549,
+        "Long": 144.43539
+    },
+    "BALACLAVA": {
+        "Lat": -37.86849,
+        "Long": 144.99156
+    },
+    "BULLEEN": {
+        "Lat": -37.76756,
+        "Long": 145.09108
+    },
+    "BALWYN": {
+        "Lat": -37.8128,
+        "Long": 145.0813
+    },
+    "BANGHOLME": {
+        "Lat": -38.04539,
+        "Long": 145.17028
+    },
+    "BAXTER": {
+        "Lat": -38.19821,
+        "Long": 145.15592
+    },
+    "BAYSWATER": {
+        "Lat": -37.84659,
+        "Long": 145.25496
+    },
+    "BEACONSFIELD": {
+        "Lat": -38.04476,
+        "Long": 145.36747
+    },
+    "BEACONSFIELD UPPER": {
+        "Lat": -37.99715,
+        "Long": 145.41409
+    },
+    "BEAUMARIS": {
+        "Lat": -37.98498,
+        "Long": 145.03907
+    },
+    "BELGRAVE": {
+        "Lat": -37.90842,
+        "Long": 145.35502
+    },
+    "BELLFIELD": {
+        "Lat": -37.75259,
+        "Long": 145.03381
+    },
+    "BELL PARK": {
+        "Lat": -38.10637,
+        "Long": 144.33716
+    },
+    "BEVERIDGE": {
+        "Lat": -37.47174,
+        "Long": 144.95753
+    },
+    "BENTLEIGH": {
+        "Lat": -37.91814,
+        "Long": 145.03633
+    },
+    "BERWICK": {
+        "Lat": -38.03194,
+        "Long": 145.34829
+    },
+    "BLACK ROCK": {
+        "Lat": -37.96962,
+        "Long": 145.01744
+    },
+    "BLACKBURN": {
+        "Lat": -37.82043,
+        "Long": 145.15289
+    },
+    "BONBEACH": {
+        "Lat": -38.06138,
+        "Long": 145.12649
+    },
+    "BORONIA": {
+        "Lat": -37.86252,
+        "Long": 145.28545
+    },
+    "BOX HILL": {
+        "Lat": -37.81868,
+        "Long": 145.12705
+    },
+    "BRAYBROOK": {
+        "Lat": -37.78655,
+        "Long": 144.85246
+    },
+    "BRIAR HILL": {
+        "Lat": -37.70946,
+        "Long": 145.12001
+    },
+    "BRIGHTON": {
+        "Lat": -37.91078,
+        "Long": 144.99909
+    },
+    "BROADFORD": {
+        "Lat": -37.20645,
+        "Long": 145.0431
+    },
+    "BROADMEADOWS": {
+        "Lat": -37.68283,
+        "Long": 144.91775
+    },
+    "BROOKFIELD": {
+        "Lat": -37.69292,
+        "Long": 144.55061
+    },
+    "BROOKLYN": {
+        "Lat": -37.82268,
+        "Long": 144.84583
+    },
+    "BRUNSWICK": {
+        "Lat": -37.76705,
+        "Long": 144.96213
+    },
+    "BULLA": {
+        "Lat": -37.63599,
+        "Long": 144.80483
+    },
+    "BULLENGAROOK": {
+        "Lat": -37.49028,
+        "Long": 144.50932
+    },
+    "BUNDOORA": {
+        "Lat": -37.69786,
+        "Long": 145.05893
+    },
+    "BURNLEY": {
+        "Lat": -37.82662,
+        "Long": 145.02021
+    },
+    "BURNSIDE": {
+        "Lat": -37.74998,
+        "Long": 144.74955
+    },
+    "BURWOOD": {
+        "Lat": -37.84951,
+        "Long": 145.109
+    },
+    "CALDER PARK": {
+        "Lat": -37.67636,
+        "Long": 144.77082
+    },
+    "CAMBERWELL": {
+        "Lat": -37.83438,
+        "Long": 145.06024
+    },
+    "CAMPBELLFIELD": {
+        "Lat": -37.67865,
+        "Long": 144.95638
+    },
+    "CANTERBURY": {
+        "Lat": -37.82407,
+        "Long": 145.08127
+    },
+    "CARLTON": {
+        "Lat": -37.801,
+        "Long": 144.9698
+    },
+    "CARNEGIE": {
+        "Lat": -37.88917,
+        "Long": 145.05713
+    },
+    "CAIRNLEA": {
+        "Lat": -37.75788,
+        "Long": 144.7912
+    },
+    "CAROLINE SPRINGS": {
+        "Lat": -37.72965,
+        "Long": 144.74153
+    },
+    "CARRUM DOWNS": {
+        "Lat": -38.10094,
+        "Long": 145.18452
+    },
+    "CAULFIELD": {
+        "Lat": -37.87999,
+        "Long": 145.02265
+    },
+    "CHADSTONE": {
+        "Lat": -37.88104,
+        "Long": 145.09602
+    },
+    "CHELSEA": {
+        "Lat": -38.05061,
+        "Long": 145.11556
+    },
+    "CHELTENHAM": {
+        "Lat": -37.96537,
+        "Long": 145.05574
+    },
+    "CHIRNSIDE PARK": {
+        "Lat": -37.75322,
+        "Long": 145.31105
+    },
+    "CITY": {
+        "Lat": -37.81503,
+        "Long": 144.96635
+    },
+    "CLAYTON": {
+        "Lat": -37.92282,
+        "Long": 145.1202
+    },
+    "CLIFTON HILL": {
+        "Lat": -37.79291,
+        "Long": 144.99828
+    },
+    "CLYDE": {
+        "Lat": -38.12054,
+        "Long": 145.31864
+    },
+    "COBURG": {
+        "Lat": -37.74148,
+        "Long": 144.96895
+    },
+    "COCKATOO": {
+        "Lat": -37.93622,
+        "Long": 145.48731
+    },
+    "COLDSTREAM": {
+        "Lat": -37.72462,
+        "Long": 145.37847
+    },
+    "COLLINGWOOD": {
+        "Lat": -37.79933,
+        "Long": 144.98727
+    },
+    "COOLAROO": {
+        "Lat": -37.65952,
+        "Long": 144.92668
+    },
+    "CORIO": {
+        "Lat": -38.07406,
+        "Long": 144.35852
+    },
+    "COTTLES BRIDGE": {
+        "Lat": -37.60137,
+        "Long": 145.21623
+    },
+    "CRAIGIEBURN": {
+        "Lat": -37.60309,
+        "Long": 144.94381
+    },
+    "CRANBOURNE": {
+        "Lat": -38.11286,
+        "Long": 145.28264
+    },
+    "CROYDON": {
+        "Lat": -37.79495,
+        "Long": 145.28196
+    },
+    "DALLAS": {
+        "Lat": -37.67199,
+        "Long": 144.93183
+    },
+    "DANDENONG": {
+        "Lat": -37.98887,
+        "Long": 145.21441
+    },
+    "DARLEY": {
+        "Lat": -37.65276,
+        "Long": 144.42194
+    },
+    "DEER PARK": {
+        "Lat": -37.77302,
+        "Long": 144.7743
+    },
+    "DELAHEY": {
+        "Lat": -37.71965,
+        "Long": 144.77062
+    },
+    "DERRIMUT": {
+        "Lat": -37.79038,
+        "Long": 144.76297
+    },
+    "DEVON MEADOWS": {
+        "Lat": -38.16551,
+        "Long": 145.30179
+    },
+    "DIAMOND CREEK": {
+        "Lat": -37.67423,
+        "Long": 145.15694
+    },
+    "DIGGERS REST": {
+        "Lat": -37.62183,
+        "Long": 144.70976
+    },
+    "DINGLEY VILLAGE": {
+        "Lat": -37.98325,
+        "Long": 145.1321
+    },
+    "DIXONS CREEK": {
+        "Lat": -37.61215,
+        "Long": 145.41354
+    },
+    "DOCKLANDS": {
+        "Lat": -37.81421,
+        "Long": 144.93898
+    },
+    "DONCASTER": {
+        "Lat": -37.78755,
+        "Long": 145.12474
+    },
+    "DONNYBROOK": {
+        "Lat": -37.54058,
+        "Long": 144.99419
+    },
+    "DONVALE": {
+        "Lat": -37.79641,
+        "Long": 145.17897
+    },
+    "DOREEN": {
+        "Lat": -37.58684,
+        "Long": 145.12652
+    },
+    "DOVETON": {
+        "Lat": -37.99505,
+        "Long": 145.23798
+    },
+    "EAGLEMONT": {
+        "Lat": -37.75982,
+        "Long": 145.06134
+    },
+    "EAST MELBOURNE": {
+        "Lat": -37.81044,
+        "Long": 144.98355
+    },
+    "EDITHVALE": {
+        "Lat": -38.03803,
+        "Long": 145.1105
+    },
+    "ELSTERNWICK": {
+        "Lat": -37.88495,
+        "Long": 145.00584
+    },
+    "ELTHAM": {
+        "Lat": -37.72067,
+        "Long": 145.14433
+    },
+    "ELWOOD": {
+        "Lat": -37.88212,
+        "Long": 144.98258
+    },
+    "EMERALD": {
+        "Lat": -37.93045,
+        "Long": 145.4459
+    },
+    "ENDEAVOUR HILLS": {
+        "Lat": -37.97482,
+        "Long": 145.25812
+    },
+    "EPPING": {
+        "Lat": -37.65187,
+        "Long": 145.02368
+    },
+    "ESSENDON": {
+        "Lat": -37.75154,
+        "Long": 144.90889
+    },
+    "EXFORD": {
+        "Lat": -37.72937,
+        "Long": 144.54174
+    },
+    "FAIRFIELD": {
+        "Lat": -37.77894,
+        "Long": 145.01809
+    },
+    "FAWKNER": {
+        "Lat": -37.70766,
+        "Long": 144.97073
+    },
+    "FERNTREE GULLY": {
+        "Lat": -37.883,
+        "Long": 145.29545
+    },
+    "FERNY CREEK": {
+        "Lat": -37.87526,
+        "Long": 145.3429
+    },
+    "FITZROY": {
+        "Lat": -37.80213,
+        "Long": 144.98007
+    },
+    "FLEMINGTON": {
+        "Lat": -37.785,
+        "Long": 144.93196
+    },
+    "FLOWERDALE": {
+        "Lat": -37.31728,
+        "Long": 145.29228
+    },
+    "FOOTSCRAY": {
+        "Lat": -37.80483,
+        "Long": 144.90113
+    },
+    "FOREST HILL": {
+        "Lat": -37.83488,
+        "Long": 145.17257
+    },
+    "FRANKSTON": {
+        "Lat": -38.14657,
+        "Long": 145.12292
+    },
+    "GARDENVALE": {
+        "Lat": -37.89801,
+        "Long": 145.00896
+    },
+    "GEMBROOK": {
+        "Lat": -37.94343,
+        "Long": 145.53554
+    },
+    "GISBORNE": {
+        "Lat": -37.48801,
+        "Long": 144.59104
+    },
+    "GLADSTONE PARK": {
+        "Lat": -37.69268,
+        "Long": 144.89525
+    },
+    "GLEN IRIS": {
+        "Lat": -37.85586,
+        "Long": 145.05464
+    },
+    "GLEN WAVERLEY": {
+        "Lat": -37.87997,
+        "Long": 145.16567
+    },
+    "GLEN HUNTLY": {
+        "Lat": -37.8894,
+        "Long": 145.04243
+    },
+    "GLENROY": {
+        "Lat": -37.70583,
+        "Long": 144.91821
+    },
+    "GOWANBRAE": {
+        "Lat": -37.70621,
+        "Long": 144.89477
+    },
+    "GREENSBOROUGH": {
+        "Lat": -37.70444,
+        "Long": 145.10054
+    },
+    "GREENVALE": {
+        "Lat": -37.64296,
+        "Long": 144.88873
+    },
+    "HADFIELD": {
+        "Lat": -37.70736,
+        "Long": 144.93834
+    },
+    "HALLAM": {
+        "Lat": -38.00177,
+        "Long": 145.27432
+    },
+    "HAMPTON": {
+        "Lat": -37.93376,
+        "Long": 145.00315
+    },
+    "HAMPTON PARK": {
+        "Lat": -38.0283,
+        "Long": 145.26875
+    },
+    "HARKAWAY": {
+        "Lat": -38.00124,
+        "Long": 145.34968
+    },
+    "HAWTHORN": {
+        "Lat": -37.82496,
+        "Long": 145.03496
+    },
+    "HEALESVILLE": {
+        "Lat": -37.65047,
+        "Long": 145.52326
+    },
+    "HEATHCOTE JUNCTION": {
+        "Lat": -37.37241,
+        "Long": 145.03136
+    },
+    "HEATHERTON": {
+        "Lat": -37.95325,
+        "Long": 145.0769
+    },
+    "HEATHMONT": {
+        "Lat": -37.82979,
+        "Long": 145.24472
+    },
+    "HEIDELBERG": {
+        "Lat": -37.75568,
+        "Long": 145.06212
+    },
+    "HIGHETT": {
+        "Lat": -37.94877,
+        "Long": 145.04192
+    },
+    "HILLSIDE": {
+        "Lat": -37.6919,
+        "Long": 144.74419
+    },
+    "HOPPERS CROSSING": {
+        "Lat": -37.87934,
+        "Long": 144.70139
+    },
+    "HUGHESDALE": {
+        "Lat": -37.90042,
+        "Long": 145.08171
+    },
+    "HUNTINGDALE": {
+        "Lat": -37.90675,
+        "Long": 145.10748
+    },
+    "HURSTBRIDGE": {
+        "Lat": -37.63647,
+        "Long": 145.19792
+    },
+    "IVANHOE": {
+        "Lat": -37.76842,
+        "Long": 145.04293
+    },
+    "JACANA": {
+        "Lat": -37.68419,
+        "Long": 144.91418
+    },
+    "KALKALLO": {
+        "Lat": -37.52282,
+        "Long": 144.95762
+    },
+    "KALLISTA": {
+        "Lat": -37.88371,
+        "Long": 145.3703
+    },
+    "KALORAMA": {
+        "Lat": -37.81794,
+        "Long": 145.36662
+    },
+    "KANGAROO GROUND": {
+        "Lat": -37.69204,
+        "Long": 145.21556
+    },
+    "KARINGAL": {
+        "Lat": -38.14339,
+        "Long": 145.16002
+    },
+    "KEILOR": {
+        "Lat": -37.71894,
+        "Long": 144.83428
+    },
+    "KEILOR DOWNS": {
+        "Lat": -37.72328,
+        "Long": 144.80797
+    },
+    "KEILOR EAST": {
+        "Lat": -37.73492,
+        "Long": 144.85579
+    },
+    "KEILOR PARK": {
+        "Lat": -37.72019,
+        "Long": 144.85131
+    },
+    "KENSINGTON": {
+        "Lat": -37.79419,
+        "Long": 144.92775
+    },
+    "KEON PARK": {
+        "Lat": -37.70049,
+        "Long": 145.01922
+    },
+    "KEW": {
+        "Lat": -37.80751,
+        "Long": 145.02873
+    },
+    "KEYSBOROUGH": {
+        "Lat": -37.99438,
+        "Long": 145.17537
+    },
+    "KILMORE": {
+        "Lat": -37.29333,
+        "Long": 144.95303
+    },
+    "KILSYTH": {
+        "Lat": -37.80272,
+        "Long": 145.3145
+    },
+    "KINGLAKE": {
+        "Lat": -37.53077,
+        "Long": 145.3405
+    },
+    "KINGS PARK": {
+        "Lat": -37.73337,
+        "Long": 144.77225
+    },
+    "KINGSBURY": {
+        "Lat": -37.71351,
+        "Long": 145.03431
+    },
+    "KINGSVILLE": {
+        "Lat": -37.81011,
+        "Long": 144.87836
+    },
+    "KNOXFIELD": {
+        "Lat": -37.8964,
+        "Long": 145.2471
+    },
+    "KOOYONG": {
+        "Lat": -37.84151,
+        "Long": 145.03189
+    },
+    "KURUNJANG": {
+        "Lat": -37.66452,
+        "Long": 144.59298
+    },
+    "LALOR": {
+        "Lat": -37.66802,
+        "Long": 145.03207
+    },
+    "LANCEFIELD": {
+        "Lat": -37.27524,
+        "Long": 144.72666
+    },
+    "LANGWARRIN": {
+        "Lat": -38.1609,
+        "Long": 145.20793
+    },
+    "LARA": {
+        "Lat": -38.02233,
+        "Long": 144.39751
+    },
+    "LAVERTON": {
+        "Lat": -37.86449,
+        "Long": 144.77161
+    },
+    "LILYDALE": {
+        "Lat": -37.75898,
+        "Long": 145.35223
+    },
+    "LITTLE RIVER": {
+        "Lat": -37.96497,
+        "Long": 144.49973
+    },
+    "LOWER PLENTY": {
+        "Lat": -37.72522,
+        "Long": 145.11201
+    },
+    "LYNDHURST": {
+        "Lat": -38.07055,
+        "Long": 145.24669
+    },
+    "LYSTERFIELD": {
+        "Lat": -37.91344,
+        "Long": 145.27242
+    },
+    "MACEDON": {
+        "Lat": -37.41964,
+        "Long": 144.56227
+    },
+    "MACLEOD": {
+        "Lat": -37.72122,
+        "Long": 145.06735
+    },
+    "MADDINGLEY": {
+        "Lat": -37.68634,
+        "Long": 144.43364
+    },
+    "MAIDSTONE": {
+        "Lat": -37.77934,
+        "Long": 144.87432
+    },
+    "MALVERN": {
+        "Lat": -37.86287,
+        "Long": 145.03252
+    },
+    "MARIBYRNONG": {
+        "Lat": -37.78384,
+        "Long": 144.89098
+    },
+    "MCKINNON": {
+        "Lat": -37.9105,
+        "Long": 145.03384
+    },
+    "MEADOW HEIGHTS": {
+        "Lat": -37.64834,
+        "Long": 144.92097
+    },
+    "MELBOURNE": {
+        "Lat": -37.81503,
+        "Long": 144.96635
+    },
+    "MELTON": {
+        "Lat": -37.67763,
+        "Long": 144.57764
+    },
+    "MENTONE": {
+        "Lat": -37.98118,
+        "Long": 145.06437
+    },
+    "MERNDA": {
+        "Lat": -37.59388,
+        "Long": 145.09062
+    },
+    "MICKLEHAM": {
+        "Lat": -37.535,
+        "Long": 144.89861
+    },
+    "MIDDLE PARK": {
+        "Lat": -37.85185,
+        "Long": 144.96321
+    },
+    "MILL PARK": {
+        "Lat": -37.66802,
+        "Long": 145.06069
+    },
+    "MITCHAM": {
+        "Lat": -37.8163,
+        "Long": 145.19358
+    },
+    "MONBULK": {
+        "Lat": -37.87601,
+        "Long": 145.4091
+    },
+    "MONT ALBERT": {
+        "Lat": -37.81605,
+        "Long": 145.10762
+    },
+    "MONTMORENCY": {
+        "Lat": -37.71756,
+        "Long": 145.12102
+    },
+    "MONTROSE": {
+        "Lat": -37.80995,
+        "Long": 145.342
+    },
+    "MOONEE PONDS": {
+        "Lat": -37.7672,
+        "Long": 144.92484
+    },
+    "MOORABBIN": {
+        "Lat": -37.94302,
+        "Long": 145.05207
+    },
+    "MORDIALLOC": {
+        "Lat": -37.99106,
+        "Long": 145.09307
+    },
+    "MOUNT COTTRELL": {
+        "Lat": -37.81352,
+        "Long": 144.63842
+    },
+    "MOUNT DANDENONG": {
+        "Lat": -37.83576,
+        "Long": 145.35685
+    },
+    "MOUNT ELIZA": {
+        "Lat": -38.18365,
+        "Long": 145.08924
+    },
+    "MOUNT EVELYN": {
+        "Lat": -37.78613,
+        "Long": 145.38195
+    },
+    "MOUNT WAVERLEY": {
+        "Lat": -37.87494,
+        "Long": 145.12811
+    },
+    "MULGRAVE": {
+        "Lat": -37.91874,
+        "Long": 145.1588
+    },
+    "MURRUMBEENA": {
+        "Lat": -37.88953,
+        "Long": 145.0666
+    },
+    "NARRE WARREN": {
+        "Lat": -38.01023,
+        "Long": 145.31554
+    },
+    "NEW GISBORNE": {
+        "Lat": -37.46331,
+        "Long": 144.59671
+    },
+    "NEWPORT": {
+        "Lat": -37.8447,
+        "Long": 144.88815
+    },
+    "NIDDRIE": {
+        "Lat": -37.74103,
+        "Long": 144.8862
+    },
+    "NOBLE PARK": {
+        "Lat": -37.96663,
+        "Long": 145.17445
+    },
+    "NORLANE": {
+        "Lat": -38.08606,
+        "Long": 144.35139
+    },
+    "NORTH MELBOURNE": {
+        "Lat": -37.79536,
+        "Long": 144.93882
+    },
+    "NORTH SHORE": {
+        "Lat": -38.10032,
+        "Long": 144.37161
+    },
+    "NORTHCOTE": {
+        "Lat": -37.77428,
+        "Long": 144.99756
+    },
+    "NOTTING HILL": {
+        "Lat": -37.90111,
+        "Long": 145.14101
+    },
+    "NUNAWADING": {
+        "Lat": -37.81834,
+        "Long": 145.17591
+    },
+    "OAK PARK": {
+        "Lat": -37.71755,
+        "Long": 144.91466
+    },
+    "OAKLANDS JUNCTION": {
+        "Lat": -37.61255,
+        "Long": 144.83959
+    },
+    "OAKLEIGH": {
+        "Lat": -37.89706,
+        "Long": 145.09009
+    },
+    "OFFICER": {
+        "Lat": -38.07313,
+        "Long": 145.42544
+    },
+    "OLINDA": {
+        "Lat": -37.85583,
+        "Long": 145.365
+    },
+    "ORMOND": {
+        "Lat": -37.90321,
+        "Long": 145.03496
+    },
+    "PAKENHAM": {
+        "Lat": -38.08635,
+        "Long": 145.47195
+    },
+    "PANTON HILL": {
+        "Lat": -37.64153,
+        "Long": 145.2404
+    },
+    "PARK ORCHARDS": {
+        "Lat": -37.77917,
+        "Long": 145.21929
+    },
+    "PARKDALE": {
+        "Lat": -37.99433,
+        "Long": 145.08837
+    },
+    "PARKVILLE": {
+        "Lat": -37.79252,
+        "Long": 144.95856
+    },
+    "PASCOE VALE": {
+        "Lat": -37.7265,
+        "Long": 144.93924
+    },
+    "PATTERSON LAKES": {
+        "Lat": -38.06802,
+        "Long": 145.14496
+    },
+    "PEARCEDALE": {
+        "Lat": -38.19966,
+        "Long": 145.23573
+    },
+    "PLENTY": {
+        "Lat": -37.67088,
+        "Long": 145.12514
+    },
+    "PLUMPTON": {
+        "Lat": -37.6665,
+        "Long": 144.66636
+    },
+    "POINT COOK": {
+        "Lat": -37.90025,
+        "Long": 144.75354
+    },
+    "PORT MELBOURNE": {
+        "Lat": -37.84018,
+        "Long": 144.94076
+    },
+    "PRAHRAN": {
+        "Lat": -37.84933,
+        "Long": 144.99193
+    },
+    "PRESTON": {
+        "Lat": -37.74044,
+        "Long": 145.00428
+    },
+    "RAVENHALL": {
+        "Lat": -37.7647,
+        "Long": 144.75255
+    },
+    "RESEARCH": {
+        "Lat": -37.70362,
+        "Long": 145.18054
+    },
+    "RESERVOIR": {
+        "Lat": -37.71633,
+        "Long": 145.00575
+    },
+    "RICHMOND": {
+        "Lat": -37.81868,
+        "Long": 145.00096
+    },
+    "RIDDELLS CREEK": {
+        "Lat": -37.45287,
+        "Long": 144.67764
+    },
+    "RINGWOOD": {
+        "Lat": -37.80752,
+        "Long": 145.23052
+    },
+    "RIPPONLEA": {
+        "Lat": -37.87629,
+        "Long": 144.99255
+    },
+    "ROCKBANK": {
+        "Lat": -37.732,
+        "Long": 144.66302
+    },
+    "ROMSEY": {
+        "Lat": -37.35598,
+        "Long": 144.74918
+    },
+    "ROSANNA": {
+        "Lat": -37.74285,
+        "Long": 145.06168
+    },
+    "ROWVILLE": {
+        "Lat": -37.92786,
+        "Long": 145.23292
+    },
+    "ROXBURGH PARK": {
+        "Lat": -37.63072,
+        "Long": 144.92821
+    },
+    "SANDRINGHAM": {
+        "Lat": -37.95917,
+        "Long": 145.01951
+    },
+    "SASSAFRAS": {
+        "Lat": -37.86282,
+        "Long": 145.35366
+    },
+    "SCORESBY": {
+        "Lat": -37.89347,
+        "Long": 145.23266
+    },
+    "SEABROOK": {
+        "Lat": -37.88624,
+        "Long": 144.75866
+    },
+    "SEAFORD": {
+        "Lat": -38.1095,
+        "Long": 145.15007
+    },
+    "SEAHOLME": {
+        "Lat": -37.86605,
+        "Long": 144.84426
+    },
+    "SEDDON": {
+        "Lat": -37.80669,
+        "Long": 144.89175
+    },
+    "SEVILLE": {
+        "Lat": -37.77728,
+        "Long": 145.46079
+    },
+    "SEYMOUR": {
+        "Lat": -37.01914,
+        "Long": 145.12975
+    },
+    "SKYE": {
+        "Lat": -38.11357,
+        "Long": 145.19658
+    },
+    "SOMERTON": {
+        "Lat": -37.6434,
+        "Long": 144.96381
+    },
+    "SOMERVILLE": {
+        "Lat": -38.22671,
+        "Long": 145.17509
+    },
+    "SOUTH KINGSVILLE": {
+        "Lat": -37.82867,
+        "Long": 144.87101
+    },
+    "SOUTH MELBOURNE": {
+        "Lat": -37.83444,
+        "Long": 144.95574
+    },
+    "SOUTH MORANG": {
+        "Lat": -37.63568,
+        "Long": 145.07913
+    },
+    "SOUTH YARRA": {
+        "Lat": -37.83956,
+        "Long": 144.99565
+    },
+    "SOUTHBANK": {
+        "Lat": -37.82765,
+        "Long": 144.95798
+    },
+    "SPOTSWOOD": {
+        "Lat": -37.82934,
+        "Long": 144.88142
+    },
+    "SPRINGVALE": {
+        "Lat": -37.9557,
+        "Long": 145.15339
+    },
+    "ST ALBANS": {
+        "Lat": -37.7455,
+        "Long": 144.80218
+    },
+    "ST ANDREWS": {
+        "Lat": -37.59988,
+        "Long": 145.27511
+    },
+    "ST HELENA": {
+        "Lat": -37.69225,
+        "Long": 145.13094
+    },
+    "ST KILDA": {
+        "Lat": -37.86411,
+        "Long": 144.9818
+    },
+    "STRATHMORE": {
+        "Lat": -37.73693,
+        "Long": 144.91947
+    },
+    "SUNBURY": {
+        "Lat": -37.58199,
+        "Long": 144.72769
+    },
+    "SUNSHINE": {
+        "Lat": -37.78485,
+        "Long": 144.83203
+    },
+    "SURREY HILLS": {
+        "Lat": -37.8205,
+        "Long": 145.09825
+    },
+    "SYDENHAM": {
+        "Lat": -37.70173,
+        "Long": 144.76445
+    },
+    "SYNDAL": {
+        "Lat": -37.87656,
+        "Long": 145.14765
+    },
+    "TARNEIT": {
+        "Lat": -37.83429,
+        "Long": 144.69116
+    },
+    "TAYLORS HILL": {
+        "Lat": -37.71054,
+        "Long": 144.75517
+    },
+    "TAYLORS LAKES": {
+        "Lat": -37.69729,
+        "Long": 144.7811
+    },
+    "TECOMA": {
+        "Lat": -37.90377,
+        "Long": 145.34496
+    },
+    "TEMPLESTOWE": {
+        "Lat": -37.75474,
+        "Long": 145.15442
+    },
+    "THE BASIN": {
+        "Lat": -37.85536,
+        "Long": 145.31536
+    },
+    "THE PATCH": {
+        "Lat": -37.88567,
+        "Long": 145.39205
+    },
+    "THOMASTOWN": {
+        "Lat": -37.67874,
+        "Long": 144.99929
+    },
+    "THORNBURY": {
+        "Lat": -37.75675,
+        "Long": 144.99167
+    },
+    "TOOLANGI": {
+        "Lat": -37.54466,
+        "Long": 145.48248
+    },
+    "TOORADIN": {
+        "Lat": -38.20711,
+        "Long": 145.37697
+    },
+    "TOORAK": {
+        "Lat": -37.84175,
+        "Long": 145.01386
+    },
+    "TOTTENHAM": {
+        "Lat": -37.80383,
+        "Long": 144.85715
+    },
+    "TRAVANCORE": {
+        "Lat": -37.77772,
+        "Long": 144.93263
+    },
+    "TRUGANINA": {
+        "Lat": -37.84332,
+        "Long": 144.73161
+    },
+    "TULLAMARINE": {
+        "Lat": -37.6995,
+        "Long": 144.88049
+    },
+    "TYABB": {
+        "Lat": -38.25784,
+        "Long": 145.18853
+    },
+    "UPFIELD": {
+        "Lat": -37.67084,
+        "Long": 144.94155
+    },
+    "UPWEY": {
+        "Lat": -37.91047,
+        "Long": 145.3281
+    },
+    "VERMONT": {
+        "Lat": -37.83596,
+        "Long": 145.19529
+    },
+    "WALLAN": {
+        "Lat": -37.40584,
+        "Long": 144.97293
+    },
+    "WANDIN": {
+        "Lat": -37.79069,
+        "Long": 145.43626
+    },
+    "WANTIRNA": {
+        "Lat": -37.84805,
+        "Long": 145.22866
+    },
+    "WANDONG": {
+        "Lat": -37.36048,
+        "Long": 145.02724
+    },
+    "WARRANDYTE": {
+        "Lat": -37.74666,
+        "Long": 145.20653
+    },
+    "WARRANWOOD": {
+        "Lat": -37.76835,
+        "Long": 145.24565
+    },
+    "WATSONIA": {
+        "Lat": -37.71015,
+        "Long": 145.08272
+    },
+    "WATTLE GLEN": {
+        "Lat": -37.66992,
+        "Long": 145.18871
+    },
+    "WERRIBEE": {
+        "Lat": -37.9042,
+        "Long": 144.66185
+    },
+    "WESTMEADOWS": {
+        "Lat": -37.67622,
+        "Long": 144.88809
+    },
+    "WEST MELBOURNE": {
+        "Lat": -37.80711,
+        "Long": 144.94695
+    },
+    "WHEELERS HILL": {
+        "Lat": -37.90671,
+        "Long": 145.18891
+    },
+    "WHITTLESEA": {
+        "Lat": -37.51203,
+        "Long": 145.118
+    },
+    "WILLIAMS LANDING": {
+        "Lat": -37.85941,
+        "Long": 144.75136
+    },
+    "WILLIAMSTOWN": {
+        "Lat": -37.85932,
+        "Long": 144.90194
+    },
+    "WINDSOR": {
+        "Lat": -37.85337,
+        "Long": 144.99304
+    },
+    "WOLLERT": {
+        "Lat": -37.6091,
+        "Long": 145.00609
+    },
+    "WONGA PARK": {
+        "Lat": -37.73585,
+        "Long": 145.27199
+    },
+    "WOODEND": {
+        "Lat": -37.35486,
+        "Long": 144.52876
+    },
+    "WOODSTOCK": {
+        "Lat": -37.5239,
+        "Long": 145.06898
+    },
+    "WYNDHAM VALE": {
+        "Lat": -37.88631,
+        "Long": 144.62586
+    },
+    "YALLAMBIE": {
+        "Lat": -37.72221,
+        "Long": 145.10363
+    },
+    "YAN YEAN": {
+        "Lat": -37.56818,
+        "Long": 145.1228
+    },
+    "YARRA GLEN": {
+        "Lat": -37.65717,
+        "Long": 145.37461
+    },
+    "YARRAMBAT": {
+        "Lat": -37.63936,
+        "Long": 145.13236
+    },
+    "YARRAVILLE": {
+        "Lat": -37.82034,
+        "Long": 144.88196
+    },
+    "YUROKE": {
+        "Lat": -37.5612,
+        "Long": 144.86391
+    }
+}

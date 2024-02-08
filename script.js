@@ -197,7 +197,7 @@ function calculateDeliveryPrice(distanceInMeters) {
         var additionalCharge = additionalDistance * 2.50;
         calculatedPrice = 310 + additionalCharge;
         calculatedPrice = Math.ceil(calculatedPrice / 10) * 10; // Round up to nearest $10
-        extraMessage = "<br><br>Please give us a call to book a specific day for delivery.";
+        extraMessage = "<br><br><strong>Please give us a call to confirm a specific day for delivery.<br><br>The below day is just an estimate.";
     } else {
         // Existing pricing logic for distances up to 105 km
     if (distanceInKm <= 5) {
