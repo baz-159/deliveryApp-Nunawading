@@ -114,24 +114,14 @@ function calculateAndDisplayRoute(origin, destination) {
         origin: origin,
         destination: destination,
         travelMode: 'DRIVING',
-        provideRouteAlternatives: true
+        provideRouteAlternatives: false // Change this to false if you're not interested in alternatives
     }, function(response, status) {
         if (status === 'OK') {
-            let shortestRouteIndex = 0;
-            let shortestDistance = response.routes[0].legs[0].distance.value;
-
-            // Find the index of the shortest route
-            for (let i = 1; i < response.routes.length; i++) {
-                let routeDistance = response.routes[i].legs[0].distance.value;
-                if (routeDistance < shortestDistance) {
-                    shortestDistance = routeDistance;
-                    shortestRouteIndex = i;
-                }
-            }
-
-            // Set the shortest route on the map
+            // Directly set the directions on the map without searching for the shortest route
             directionsRenderer.setDirections(response);
-            directionsRenderer.setRouteIndex(shortestRouteIndex);
+
+            // Assuming the first route is the standard route
+            let standardRouteDistance = response.routes[0].legs[0].distance.value;
 
             // Check if destination is a fixed price suburb
             let destinationSuburb = Object.keys(fixedPriceSuburbs).find(suburb => destination.includes(suburb));
@@ -140,8 +130,8 @@ function calculateAndDisplayRoute(origin, destination) {
                 // Set the fixed price for the suburb
                 document.getElementById('result').innerText = 'Calculated Delivery Price: $' + fixedPriceSuburbs[destinationSuburb] + ' plus GST';
             } else {
-                // Use the distance of the shortest route for calculating the delivery price for non-fixed price suburbs
-                calculateDeliveryPrice(shortestDistance);
+                // Use the distance of the standard route for calculating the delivery price for non-fixed price suburbs
+                calculateDeliveryPrice(standardRouteDistance);
             }
 
             // New code to extract and display suburb name

@@ -559,6 +559,14 @@
         "Friday": false,
         "Saturday": false
     },
+    "BELGRAVE HEIGHTS": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "BELGRAVE SOUTH": {
         "Monday": false,
         "Tuesday": true,
@@ -908,6 +916,14 @@
         "Tuesday": true,
         "Wednesday": false,
         "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "BRIMBANK": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
         "Friday": false,
         "Saturday": false
     },
@@ -1304,6 +1320,14 @@
         "Saturday": false
     },
     "CAULFIELD": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
+    "CAULFIELD EAST": {
         "Monday": false,
         "Tuesday": true,
         "Wednesday": false,
@@ -4623,6 +4647,14 @@
         "Friday": false,
         "Saturday": false
     },
+    "MORNINGTON PENINSULA": {
+        "Monday": false,
+        "Tuesday": true,
+        "Wednesday": false,
+        "Thursday": false,
+        "Friday": false,
+        "Saturday": false
+    },
     "MORRISONS": {
         "Monday": false,
         "Tuesday": false,
@@ -6175,7 +6207,7 @@
         "Friday": false,
         "Saturday": false
     },
-    "ST HELENA": {
+    "SAINT HELENA": {
         "Monday": true,
         "Tuesday": true,
         "Wednesday": true,
