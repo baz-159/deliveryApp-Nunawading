@@ -60,7 +60,7 @@ document.getElementById('deliveryForm').addEventListener('submit', function(even
     let customerLocation = document.getElementById('location').value;
 
     // Always calculate and display the route
-    calculateAndDisplayRoute('1185 Pascoe Vale Rd, Broadmeadows VIC 3047', customerLocation);
+    calculateAndDisplayRoute('308-320 Settlement Rd, Thomastown VIC 3074', customerLocation);
 
     let fixedPriceSuburb = Object.keys(fixedPriceSuburbs).find(suburb => customerLocation.includes(suburb));
     if (fixedPriceSuburb) {
@@ -79,7 +79,7 @@ function calculateDistance(customerLocation) {
     var service = new google.maps.DistanceMatrixService();
     service.getDistanceMatrix(
         {
-            origins: ['1185 Pascoe Vale Rd, Broadmeadows VIC 3047'],
+            origins: ['308-320 Settlement Rd, Thomastown VIC 3074'],
             destinations: [customerLocation],
             travelMode: 'DRIVING',
             unitSystem: google.maps.UnitSystem.METRIC,
