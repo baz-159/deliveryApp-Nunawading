@@ -169,11 +169,11 @@
     },
     "ARTHURS CREEK": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "ARTHURS SEAT": {
         "Monday": false,
@@ -665,11 +665,11 @@
     },
     "BEVERIDGE": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "BIG PATS CREEK": {
         "Monday": false,
@@ -1673,11 +1673,11 @@
     },
     "COTTLES BRIDGE": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "COWES": {
         "Monday": false,
@@ -2049,11 +2049,11 @@
     },
     "DONNYBROOK": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "DONVALE": {
         "Monday": false,
@@ -3241,11 +3241,11 @@
     },
     "HURSTBRIDGE": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "INDENTED HEAD": {
         "Monday": false,
@@ -3361,11 +3361,11 @@
     },
     "KALKALLO": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "KALLISTA": {
         "Monday": false,
@@ -3653,6 +3653,14 @@
         "Wednesday": false,
         "Thursday": false,
         "Friday": false,
+        "Saturday": false
+    },
+    "KONAGADERRA": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "KONGWAK": {
@@ -4409,11 +4417,11 @@
     },
     "MICKLEHAM": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "MIDDLE PARK": {
         "Monday": false,
@@ -5273,11 +5281,11 @@
     },
     "PANTON HILL": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "PARK ORCHARDS": {
         "Monday": false,
@@ -5805,6 +5813,14 @@
         "Wednesday": false,
         "Thursday": true,
         "Friday": false,
+        "Saturday": false
+    },
+    "SAINT ANDREWS": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
         "Saturday": false
     },
     "SAN REMO": {
@@ -7135,6 +7151,14 @@
         "Friday": true,
         "Saturday": false
     },
+    "WHITTLESEA CITY": {
+        "Monday": true,
+        "Tuesday": false,
+        "Wednesday": true,
+        "Thursday": false,
+        "Friday": true,
+        "Saturday": false
+    },
     "WILDWOOD": {
         "Monday": true,
         "Tuesday": false,
@@ -7225,11 +7249,11 @@
     },
     "WOODSTOCK": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "WOODSTOCK WEST": {
         "Monday": false,
@@ -7265,11 +7289,11 @@
     },
     "YAN YEAN": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     },
     "YANDOIT": {
         "Monday": false,
@@ -7361,10 +7385,10 @@
     },
     "YUROKE": {
         "Monday": true,
-        "Tuesday": true,
+        "Tuesday": false,
         "Wednesday": true,
-        "Thursday": true,
+        "Thursday": false,
         "Friday": true,
-        "Saturday": true
+        "Saturday": false
     }
 }
