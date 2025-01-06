@@ -5815,6 +5815,14 @@
         "Friday": false,
         "Saturday": false
     },
+    "SAINT ALBANS": {
+        "Monday": false,
+        "Tuesday": false,
+        "Wednesday": false,
+        "Thursday": true,
+        "Friday": false,
+        "Saturday": false
+    },
     "SAINT ANDREWS": {
         "Monday": true,
         "Tuesday": false,
