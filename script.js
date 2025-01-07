@@ -187,35 +187,38 @@ function calculateDeliveryPrice(distanceInMeters) {
         extraMessage = "<br><br><strong>Please give us a call to confirm a specific day for delivery.<br><br>The below day is just an estimate.";
     } else {
         // Existing pricing logic for distances up to 105 km
-    if (distanceInKm <= 5) {
-        calculatedPrice = 70;
-    } else if (distanceInKm <= 10) {
-        calculatedPrice = 80;
-    } else if (distanceInKm <= 15) {
-        calculatedPrice = 90;
-    } else if (distanceInKm <= 20) {
-        calculatedPrice = 110;
-    } else if (distanceInKm <= 25) {
-        calculatedPrice = 120;
-    } else if (distanceInKm <= 35) {
-        calculatedPrice = 130;
-    } else if (distanceInKm <= 45) {
-        calculatedPrice = 140;
-    } else if (distanceInKm <= 55) {
-        calculatedPrice = 150;
-    } else if (distanceInKm <= 65) {
-        calculatedPrice = 170;
-    } else if (distanceInKm <= 75) {
-        calculatedPrice = 190;
-    } else if (distanceInKm <= 85) {
-        calculatedPrice = 230;
-    } else if (distanceInKm <= 95) {
-        calculatedPrice = 270;
-    } else if (distanceInKm <= 105) {
-        calculatedPrice = 310;
-    } 
-}
+        if (distanceInKm <= 5) {
+            calculatedPrice = 70;
+        } else if (distanceInKm <= 10) {
+            calculatedPrice = 80;
+        } else if (distanceInKm <= 15) {
+            calculatedPrice = 90;
+        } else if (distanceInKm <= 20) {
+            calculatedPrice = 110;
+        } else if (distanceInKm <= 25) {
+            calculatedPrice = 120;
+        } else if (distanceInKm <= 35) {
+            calculatedPrice = 130;
+        } else if (distanceInKm <= 45) {
+            calculatedPrice = 140;
+        } else if (distanceInKm <= 55) {
+            calculatedPrice = 150;
+        } else if (distanceInKm <= 65) {
+            calculatedPrice = 170;
+        } else if (distanceInKm <= 75) {
+            calculatedPrice = 190;
+        } else if (distanceInKm <= 85) {
+            calculatedPrice = 230;
+        } else if (distanceInKm <= 95) {
+            calculatedPrice = 270;
+        } else if (distanceInKm <= 105) {
+            calculatedPrice = 310;
+        }
+    }
+    // Add the permanent message in red
+    var permanentMessage = '<br><br><span style="color: red;">Delivery Days below are not yet accurate. <br>Please ignore.</span>';
+    var resultText = 'Calculated Delivery Price: $' + calculatedPrice + ' plus GST' + extraMessage + permanentMessage;
+
     // Display the result on the page
-    var resultText = 'Calculated Delivery Price: $' + calculatedPrice + ' plus GST' + extraMessage;
     document.getElementById('result').innerHTML = resultText;
 }
