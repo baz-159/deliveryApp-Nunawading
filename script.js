@@ -218,7 +218,7 @@ function calculateDeliveryPrice(distanceInMeters) {
         calculatedPrice = Math.round(originalPrice * 1.1 + 10); 
     }
 
-    // Add the permanent message in red.
+    // Add the permanent message in red
     // var permanentMessage = '<br><br><span style="color: red;">Delivery Days below are not yet accurate. <br>Please ignore. </span>';
     var resultText = 'Calculated Delivery Price: $' + calculatedPrice + ' inclusive of GST' + extraMessage;
 
