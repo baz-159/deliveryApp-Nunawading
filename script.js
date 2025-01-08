@@ -173,51 +173,54 @@ function extractAndDisplaySuburb(destinationAddress) {
 
 
 
-// Function to calculate and display the delivery price
 function calculateDeliveryPrice(distanceInMeters) {
     var distanceInKm = distanceInMeters / 1000;
+    var originalPrice;
     var calculatedPrice;
     var extraMessage = "";
 
     if (distanceInKm > 105) {
         var additionalDistance = distanceInKm - 105;
         var additionalCharge = additionalDistance * 2.50;
-        calculatedPrice = 310 + additionalCharge;
-        calculatedPrice = Math.ceil(calculatedPrice / 10) * 10; // Round up to nearest $10
+        originalPrice = 310 + additionalCharge;
+        calculatedPrice = Math.ceil(originalPrice * 1.1 + 10); // Apply 10% increase and add $10
         extraMessage = "<br><br><strong>Please give us a call to confirm a specific day for delivery.<br><br>The below day is just an estimate.";
     } else {
-        // Existing pricing logic for distances up to 105 km
         if (distanceInKm <= 5) {
-            calculatedPrice = 70;
+            originalPrice = 70;
         } else if (distanceInKm <= 10) {
-            calculatedPrice = 80;
+            originalPrice = 80;
         } else if (distanceInKm <= 15) {
-            calculatedPrice = 90;
+            originalPrice = 90;
         } else if (distanceInKm <= 20) {
-            calculatedPrice = 110;
+            originalPrice = 110;
         } else if (distanceInKm <= 25) {
-            calculatedPrice = 120;
+            originalPrice = 120;
         } else if (distanceInKm <= 35) {
-            calculatedPrice = 130;
+            originalPrice = 130;
         } else if (distanceInKm <= 45) {
-            calculatedPrice = 140;
+            originalPrice = 140;
         } else if (distanceInKm <= 55) {
-            calculatedPrice = 150;
+            originalPrice = 150;
         } else if (distanceInKm <= 65) {
-            calculatedPrice = 170;
+            originalPrice = 170;
         } else if (distanceInKm <= 75) {
-            calculatedPrice = 190;
+            originalPrice = 190;
         } else if (distanceInKm <= 85) {
-            calculatedPrice = 230;
+            originalPrice = 230;
         } else if (distanceInKm <= 95) {
-            calculatedPrice = 270;
+            originalPrice = 270;
         } else if (distanceInKm <= 105) {
-            calculatedPrice = 310;
+            originalPrice = 310;
         }
+
+        // Apply 10% increase and add $10 to the original price
+        calculatedPrice = Math.round(originalPrice * 1.1 + 10); 
     }
+
     // Add the permanent message in red
-    var permanentMessage = '<br><br><span style="color: red;">Delivery Days below are not yet accurate. <br>Please ignore. </span>';
-    var resultText = 'Calculated Delivery Price: $' + calculatedPrice + ' plus GST' + extraMessage + permanentMessage;
+    // var permanentMessage = '<br><br><span style="color: red;">Delivery Days below are not yet accurate. <br>Please ignore. </span>';
+    var resultText = 'Calculated Delivery Price: $' + calculatedPrice + ' inclusive of GST' + extraMessage;
 
     // Display the result on the page
     document.getElementById('result').innerHTML = resultText;
