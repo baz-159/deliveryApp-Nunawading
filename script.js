@@ -215,10 +215,10 @@ function calculateDeliveryPrice(distanceInMeters) {
         }
 
         // Apply 10% increase and add $10 to the original price
-        calculatedPrice = Math.round(originalPrice * 1.1 + 10); 
+        calculatedPrice = Math.round(originalPrice * 1.1 + 5); 
     }
 
-    // Add the permanent message in red.
+    // Add the permanent message in red
     // var permanentMessage = '<br><br><span style="color: red;">Delivery Days below are not yet accurate. <br>Please ignore. </span>';
     var resultText = 'Calculated Delivery Price: $' + calculatedPrice + ' inclusive of GST' + extraMessage;
 
